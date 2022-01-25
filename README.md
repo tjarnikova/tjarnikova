@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tereza Jarníková. I'm an oceanographer currently using numerical modelling to understand the progression of ocean acidification in coastal environments. 
-- 📍 I'm finishing my doctorate in the Mesoscale Ocean and Atmospheric Dynamics Group at the University of British Columbia.
-- 📍 During my doctorate, I developed a carbonate chemistry model for the Salish Sea and used it to look at how much carbon the ocean has taken up since the pre-industrial era. 
+- 📍 I'm finishing my doctorate in the Mesoscale Ocean and Atmospheric Dynamics Group at the University of British Columbia. During my doctorate, I developed a carbonate chemistry model for the Salish Sea and used it to look at how much carbon the ocean has taken up since the pre-industrial era. 
 - 📍 I'm also interested in using data science techniques to see what big model-generated datasets can tell us: https://os.copernicus.org/preprints/os-2021-66/
+- 🚲 In my spare time, I like bikes, mountains, naps, surfing, and making lasagna. 
 - 👀 My friend Kit and I once had fun with a data-postcard correspondence project, based on the Dear Data project: https://www.evaporatedkid.com/deardata
 - 🌱 Sometimes I take photos and very rarely put them on my photo-and-creations website, www.evaporatedkid.com 
 - I use she/her or they/them pronouns
