@@ -4,7 +4,7 @@
 - 🇺🇦 As a Central European and as a person, I am extremely angry about the Russian invasion of Ukraine. To that end I am supporting legal counsel for Russian dissidents protesting their fascist government (OVD-info), and I invite you to join me: https://www.globalgiving.org/projects/ovd-info/
 - 🚲 In my spare time, I like bikes, mountains, naps, surfing, and making lasagna. 
 - 👀 My friend Kit and I once had fun with a data-postcard correspondence project, based on the Dear Data project: https://www.evaporatedkid.com/deardata
-- 🌱 Sometimes I take photos and very rarely put them on my photo-and-creations website, www.evaporatedkid.com 
+- 🌱 Sometimes I take photos and very rarely put them on the internet www.evaporatedkid.com 
 - I use she/her or they/them pronouns
 - 🧸 Once I got followed by a bear on a cycle-access climbing trip in the North Cascades, which was not actually that dramatic but was quite memorable: https://www.ubc-voc.com/2019/09/03/carbon-neutraler-climbing-the-north-cascades-on-two-wheels-featuring-mutually-surprised-mammals-and-a-mediocre-decision
 - 📫 You can always email me at tjarnik [a] gmail [dot] com or at T [dot] Jarnikova [at] uea [dot] ac [dot] uk
